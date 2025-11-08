@@ -757,5 +757,22 @@
         "notes": "Opis zadania realizowanego do 30 czerwca 2026 z programem społeczno-projektowym i finałem dla zespołów doktorantów BAUHAUS4EU."
       }
     ]
+  },
+  {
+    "id": "bkihack-2026",
+    "nazwa": "9. Bydgoski Hackathon BKIhack 2026",
+    "opis": "Dziewiąta edycja BKIhack – 24-godzinny hackathon technologiczny rozpoczynający się 27 marca 2026 w Młynach Rothera na Wyspie Młyńskiej w Bydgoszczy, organizowany przez Bydgoski Klaster Informatyczny.",
+    "data_odbycia": "2026-03-27",
+    "data_odbycia_do": "2026-03-28",
+    "miejsce": "Młyny Rothera, Wyspa Młyńska, Bydgoszcz",
+    "organizator": "Bydgoski Klaster Informatyczny",
+    "link": "https://www.bkihack.pl/",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://www.bkihack.pl/",
+        "notes": "Strona 9. Bydgoskiego Hackathonu podaje datę 27.03.2026, miejsce Młyny Rothera i informację o organizatorze."
+      }
+    ]
   }
 ]
