@@ -826,5 +826,25 @@
         "notes": "Zakładka kontakt wskazuje skład organizatorów (bocianu, marekp, kris3d, koala) odpowiedzialnych za GRAWITACJĘ 8bit GameJam."
       }
     ]
+  },
+  {
+    "id": "kosciuszkon-iv-2026",
+    "nazwa": "Kościuszkon IV 2026",
+    "opis": "Czwarta edycja studenckiego hackathonu Politechniki Krakowskiej w Klubie Studenckim Kwadrat. Dwudniowy, 24-godzinny turniej programistyczny dla 2-4 osobowych zespołów łączy kodowanie, prezentacje projektów, spotkania z firmami i strefę targową z atrakcjami dla uczestników.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-05-09",
+    "data_odbycia_do": "2026-05-10",
+    "miejsce": "Klub Studencki Kwadrat, Stanisława Skarżyńskiego 1, Kraków",
+    "organizator": "Fundacja Politechniki Krakowskiej; Samorząd Studentów PK",
+    "link": "https://crossweb.pl/wydarzenia/kosciuszkon-iv-2026/",
+    "kategoria": "Ogólny",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://crossweb.pl/wydarzenia/kosciuszkon-iv-2026/",
+        "opis": "Zapowiedź Kościuszkon IV 2026 z datami, lokalizacją i opisem programu"
+      }
+    ]
   }
 ]
