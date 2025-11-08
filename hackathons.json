@@ -856,5 +856,370 @@
         "notes": "Opis wydarzenia Mastering Up potwierdza daty 13-15 czerwca 2026, formułę online oraz tematykę ścieżek."
       }
     ]
+  },
+  {
+    "id": "hackathon-dla-malopolski-2025-11",
+    "nazwa": "Hackathon dla Małopolski 2025",
+    "opis": "Dwudniowy hackathon skupiony na rozwiązywaniu lokalnych wyzwań Małopolski w obszarach zielonej transformacji, ekologii i nowoczesnych technologii. Uczestnicy pracują nad realnymi potrzebami małopolskich społeczności, tworząc rozwiązania społeczne i biznesowe. Wydarzenie realizowane w ramach Krajowego Planu Odbudowy - projektu 'Małopolska Innowacyjna'.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": "2025-11-05",
+    "data_odbycia": "2025-11-22",
+    "data_odbycia_do": "2025-11-23",
+    "link": "https://startupacademy.pl/hackathon-malopolska/",
+    "kategoria": "Innowacje/Zrównoważony rozwój",
+    "status": "nadchodzący",
+    "miejsce": "Małopolska (szczegóły lokalizacji do ogłoszenia)",
+    "organizator": "Startup Academy Poland",
+    "udzial": "bezpłatny",
+    "nagrody": {
+      "opis": "Benefity o łącznej wartości ponad 20 000 zł",
+      "szczegoly": "Szczegóły nagród zostaną ogłoszone wkrótce"
+    },
+    "grupa_docelowa": [
+      "Studenci szkół wyższych z województwa małopolskiego",
+      "Doktoranci z województwa małopolskiego",
+      "Osoby otwarte na intensywną wymianę pomysłów",
+      "Osoby gotowe do pracy zespołowej nad innowacyjnymi rozwiązaniami"
+    ],
+    "wyzwania": [
+      {
+        "nazwa": "Zrównoważony transport - Inteligentne sieci transportowe dla przyszłości",
+        "opis": "Opracowanie rozwiązań wspierających zrównoważony transport, minimalizację emisji CO₂ i optymalizację ruchu",
+        "przykladowe_zadania": [
+          "Dynamiczne planowanie tras transportu publicznego i prywatnego",
+          "Monitoring zużycia energii przez pojazdy elektryczne",
+          "System nagradzający za wybór zrównoważonych środków transportu"
+        ]
+      },
+      {
+        "nazwa": "Zarządzanie wodą - Zintegrowany system zarządzania wodą deszczową",
+        "opis": "Rozwiązania umożliwiające lepsze zarządzanie wodą deszczową, minimalizację ryzyka powodzi i wsparcie retencji wody",
+        "przykladowe_zadania": [
+          "Monitoring i automatyczne zarządzanie wodą deszczową",
+          "Wykorzystanie wody deszczowej do celów domowych",
+          "Edukacja mieszkańców o korzyściach z retencji"
+        ]
+      },
+      {
+        "nazwa": "Eko-turystyka - Rozwiązania wspierające zrównoważoną turystykę",
+        "opis": "Tworzenie rozwiązań promujących zrównoważoną turystykę i ograniczających zaśmiecanie oraz eksploatację zasobów naturalnych",
+        "przykladowe_zadania": [
+          "Narzędzie łączące turystów z lokalnymi eko-przewodnikami",
+          "Wsparcie wyboru obiektów dbających o zrównoważony rozwój",
+          "System recyklingu w destynacjach turystycznych"
+        ]
+      },
+      {
+        "nazwa": "Świadome społeczeństwo - Rozwiązania wspierające świadome nawyki konsumenckie",
+        "opis": "Rozwiązania wspierające świadome wybory konsumenckie w zakresie zrównoważonej żywności, odzieży i produktów codziennego użytku",
+        "przykladowe_zadania": [
+          "Monitoring śladu węglowego produktów i sugerowanie alternatyw",
+          "System nagradzający zakupy od lokalnych dostawców",
+          "Edukacja o wpływie nawyków konsumpcyjnych na środowisko"
+        ]
+      }
+    ],
+    "mentorzy": [
+      {
+        "imie_nazwisko": "Michał Misztal",
+        "rola": "Prowadzący wydarzenie",
+        "opis": "CEO Startup Academy, trener biznesu, wykładowca Uczelni Łazarskiego, koordynator programów nauczania przedsiębiorczości"
+      },
+      {
+        "imie_nazwisko": "Justyna Ratajczak",
+        "rola": "Mentor",
+        "opis": "Absolwentka Prawa UAM Poznań i ochrony praw własności intelektualnej UW"
+      },
+      {
+        "imie_nazwisko": "Konrad Kaczmarczyk",
+        "rola": "Mentor",
+        "opis": "Ekspert w zakresie modelowania biznesowego, sprzedaży transformacyjnej i zarządzania relacjami partnerskimi"
+      },
+      {
+        "imie_nazwisko": "Katarzyna Maryańska",
+        "rola": "Mentor",
+        "opis": "Menedżerka Programów Akceleracyjnych, specjalistka przedsiębiorczości i rozwoju biznesów na wczesnym etapie"
+      },
+      {
+        "imie_nazwisko": "Szymon Jasiński",
+        "rola": "Mentor",
+        "opis": "Ekspert Business Development i Product Management, współzałożyciel Healthly i Just Glance It"
+      },
+      {
+        "imie_nazwisko": "Wiktor Krzeszewski",
+        "rola": "Ekspert",
+        "opis": "CEO & Co-founder mTap Smart City, specjalista tworzenia agend B+R i pozyskiwania dotacji"
+      }
+    ],
+    "jury": [
+      {
+        "imie_nazwisko": "Łukasz Wąsikiewicz",
+        "stanowisko": "Managing Partner 24Ventures",
+        "opis": "Doświadczenie w Wielkiej Czwórce, Anioł Biznesu, odpowiedzialny za inwestycje m.in. w Surveily, cThings.co, Onteon"
+      },
+      {
+        "imie_nazwisko": "Andrzej Bańka",
+        "stanowisko": "Zastępca Dyrektora Departamentu Nadzoru Właścicielskiego i Gospodarki, Urząd Marszałkowski Województwa Małopolskiego",
+        "opis": "Ekonomista, ekspert zarządzania i marketingu, redaktor naczelny 'Business in Małopolska'"
+      }
+    ],
+    "korzyści": [
+      "Rozwój umiejętności miękkich (komunikacja, praca zespołowa, zarządzanie czasem, prezentacja)",
+      "Networking z mentorami, ekspertami i przedstawicielami branży",
+      "Doświadczenie w pracy nad realnymi problemami",
+      "Benefity dla najlepszych zespołów",
+      "Dostęp do sprawdzonych metodyk pracy projektowej",
+      "Mentoring i wsparcie ekspertów"
+    ],
+    "zapewnione": [
+      "Catering (obiady, kawa, przekąski)",
+      "Mentoring przez cały hackathon",
+      "Certyfikat uczestnictwa (na prośbę)",
+      "Dostęp do narzędzi i wsparcia ekspertów"
+    ],
+    "program": {
+      "dzien_1": {
+        "data": "22 listopada 2025",
+        "godziny": "08:30-18:00",
+        "wydarzenia": [
+          "08:30-09:00: Rejestracja, powitalna kawa",
+          "09:00-09:30: Otwarcie, zasady, prezentacja tematów i mentorów",
+          "09:30-10:30: Wykład inspiracyjny",
+          "10:30-13:30: Praca zespołów, wsparcie mentorów",
+          "13:30-14:15: Obiad",
+          "14:15-17:30: Praca zespołów, wsparcie mentorów",
+          "17:30-18:00: Podsumowanie dnia"
+        ]
+      },
+      "dzien_2": {
+        "data": "23 listopada 2025",
+        "godziny": "08:30-18:30",
+        "wydarzenia": [
+          "08:30-09:00: Powitalna kawa",
+          "09:00-12:15: Praca zespołów, wsparcie mentorów",
+          "12:15-13:00: Obiad",
+          "13:00-15:00: Przygotowanie do prezentacji",
+          "15:00-17:00: Finał - prezentacje przed jury",
+          "17:00-18:30: Poczęstunek, networking, ogłoszenie wyników"
+        ]
+      }
+    },
+    "wymagania": "Zapał do intensywnej pracy - reszta w praktyce. Nie wymaga wcześniejszego doświadczenia",
+    "praca_w_zespolach": "Uczestnicy mogą zgłosić się z własnym zespołem lub zostać przydzieleni do zespołu na miejscu na podstawie kompetencji i zainteresowań",
+    "finansowanie": "Krajowy Plan Odbudowy (KPO), NextGenerationEU",
+    "poprzednie_edycje": [
+      {
+        "data": "2024-11",
+        "opis": "Pierwsza edycja hackathonu"
+      },
+      {
+        "data": "2025-06",
+        "opis": "Druga edycja hackathonu"
+      }
+    ],
+    "partnerzy_poprzedniej_edycji": [
+      "Budimex",
+      "Centrum (nie podano pełnej nazwy)",
+      "FIM",
+      "Inne instytucje"
+    ],
+    "dodatkowe_info": "Trzecia edycja hackathonu dla Małopolski. Uczestnicy pracują nad rozwiązaniami mającymi realne zmiany na skalę lokalną. Wyzwania od partnerów zostaną ogłoszone wkrótce. Wydarzenie jest częścią projektu 'Małopolska Innowacyjna' finansowanego przez KPO."
+  },
+  {
+    "id": "heroes-of-the-brain-2025",
+    "nazwa": "Heroes of the Brain 2025 - Neurohackathon",
+    "opis": "Jeden z największych stacjonarnych hackathonoów w Europie poświęconych interfejsom mózg-komputer (BCI). 24-godzinny maraton programowania łączący neuronaukę, sztuczną inteligencję i systemy BCI. Uczestnicy pracują z urządzeniami EEG (czepki i opaski BrainAccess) nad innowacyjnymi projektami na styku neurobiologii i technologii. Poprzednia edycja zgromadziła ponad 130 uczestników z Polski i zagranicy.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2025-11-29",
+    "data_odbycia_do": "2025-11-30",
+    "link": "https://heroesofthebrain.pwr.edu.pl/",
+    "kategoria": "Neurotechnology/BCI",
+    "status": "nadchodzący",
+    "miejsce": "Budynek D-21, Politechnika Wrocławska, plac Grunwaldzki 11, 50-355 Wrocław",
+    "organizator": "Koło Naukowe Neuron oraz Wydziałowa Rada Samorządu Studenckiego Wydziału Informatyki i Telekomunikacji Politechniki Wrocławskiej",
+    "edycja": "2",
+    "forma": "stacjonarna",
+    "zasieg": "międzynarodowy",
+    "udzial": "bezpłatny",
+    "kategorie_tematyczne": [
+      "Wellness - projekty związane ze zdrowiem i dobrostanem",
+      "Commerce - projekty związane z zastosowaniami komercyjnymi technologii BCI"
+    ],
+    "nagrody": {
+      "opis": "Atrakcyjne nagrody dla najlepszych drużyn w obu kategoriach",
+      "poprzednia_edycja": {
+        "pula_nagrod": "16 000 PLN",
+        "pierwsze_miejsce": "5 000 PLN"
+      }
+    },
+    "technologie": [
+      "Interfejsy mózg-komputer (BCI)",
+      "EEG (elektroencefalografia)",
+      "BrainAccess HALO (4-kanałowa opaska EEG)",
+      "BrainAccess MINI (8-kanałowy czepek EEG)",
+      "BrainAccess Board (oprogramowanie do analizy danych)",
+      "Sztuczna inteligencja",
+      "Neuroinformatyka"
+    ],
+    "sprzet": "Urządzenia BrainAccess do rejestracji i analizy danych EEG dostarczone przez partnera - firmę Neurotechnology",
+    "grupa_docelowa": [
+      "Pasjonaci neuroinformatyki",
+      "Studenci zainteresowani sztuczną inteligencją",
+      "Entuzjaści technologii BCI",
+      "Programiści IT",
+      "Wszyscy chcący spróbować swoich sił z nowymi technologiami EEG"
+    ],
+    "wymagania": "Nie wymaga wcześniejszego doświadczenia z technologiami BCI czy EEG",
+    "wsparcie": [
+      "Mentorzy i wolontariusze pomagający w obsłudze sprzętu",
+      "Eksperci z obszaru BCI",
+      "Wsparcie w rozwoju projektów"
+    ],
+    "korzyści": [
+      "Praktyczne umiejętności pracy z technologiami BCI",
+      "Współpraca z ekspertami z branży neuroinformatyki",
+      "Rywalizacja o atrakcyjne nagrody",
+      "Networking z uczestnikami z Polski i zagranicy",
+      "Dostęp do profesjonalnego sprzętu EEG",
+      "Możliwość rozwoju innowacyjnych projektów"
+    ],
+    "partnerzy_sponsorzy": [
+      "Neurotechnology (litewska firma produkująca interfejsy BCI)"
+    ],
+    "poprzednia_edycja_2024": {
+      "data": "2024-11-16 - 2024-11-17",
+      "miejsce": "Strefa Otwartej Nauki, Politechnika Wrocławska",
+      "liczba_uczestnikow": 132,
+      "liczba_zespolow": 32,
+      "kategorie": ["Entertainment", "Social Impact"],
+      "zwyciezcy": {
+        "social_impact": "Team SAGRES",
+        "entertainment": "BrainSurfer (gra surfingowa sterowana myślami)"
+      },
+      "gosc_specjalny": "Dr inż. Osvaldas Putkis - Head of Engineering w Neurotechnology (członek jury)",
+      "atrakcje": "Pokazowa sesja hyperscanningu - jednoczesne połączenie 9 osób w 'orkiestrę' fal mózgowych generującą muzykę"
+    },
+    "godziny": "08:00 - 17:00 (29-30 listopada 2025)",
+    "trwanie": "24 godziny intensywnej pracy zespołowej",
+    "cel": "Rozwijanie innowacyjnych projektów łączących neuronaukę, sztuczną inteligencję i systemy BCI. Popularyzacja technologii interfejsów mózg-komputer i ich praktycznych zastosowań.",
+    "kontakt": "Koło Naukowe Neuron, Politechnika Wrocławska",
+    "dodatkowe_info": "Heroes of the Brain to największy hackathon neuroinformatyczny w Polsce i prawdopodobnie w Europie. Wydarzenie łączy teorię z praktyką - uczestnicy mają dostęp do profesjonalnego sprzętu EEG i mogą tworzyć realne aplikacje wykorzystujące sygnały mózgowe. Poprzednia edycja zawierała również wykład wprowadzający do pracy z interfejsami BCI oraz demonstrację hyperscanningu - techniki jednoczesnego obrazowania aktywności mózgu wielu osób."
+  },
+  {
+    "id": "oh-my-hack-2025",
+    "nazwa": "Oh My Hack 2025",
+    "opis": "Jedna z najważniejszych konferencji cyberbezpieczeństwa w Polsce. Wydarzenie dla entuzjastów i ekspertów cybersecurity z dziesiątkami prezentacji w 6 ścieżkach tematycznych, omawiających najnowsze case studies, analizy i rozwiązania z zakresu bezpieczeństwa IT. Konferencja zrzesza specjalistów branży cybersecurity, którzy dzielą się swoją wiedzą i doświadczeniami. Patronat merytoryczny: serwis Zaufana Trzecia Strona.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2025-12-02",
+    "data_odbycia_do": "2025-12-02",
+    "link": "https://omhconf.pl/",
+    "kategoria": "Cybersecurity",
+    "status": "nadchodzący",
+    "typ_wydarzenia": "konferencja",
+    "miejsce": "PGE Narodowy, al. Księcia Józefa Poniatowskiego 1, Warszawa",
+    "organizator": "PROIDEA",
+    "edycja": "7",
+    "patron_merytoryczny": "Adam Haertle - założyciel i redaktor naczelny serwisu Zaufana Trzecia Strona oraz współprowadzący podcastu Rozmowa Kontrolowana",
+    "forma": "stacjonarna",
+    "jezyk": "polski",
+    "sciezki_tematyczne": 6,
+    "liczba_prezentacji": "kilkadziesiąt",
+    "grupa_docelowa": [
+      "Specjaliści cybersecurity",
+      "Eksperci bezpieczeństwa IT",
+      "Członkowie red team i blue team",
+      "Hakerzy etyczni",
+      "Entuzjaści cyberbezpieczeństwa",
+      "Przedstawiciele firm IT",
+      "Specjaliści z branży finansowej",
+      "Przedstawiciele administracji i przemysłu"
+    ],
+    "poprzednia_edycja_2024": {
+      "data": "2024-12-03",
+      "liczba_uczestnikow": 1300,
+      "liczba_firm": 292,
+      "liczba_prelegentow": 61,
+      "liczba_partnerow": 36,
+      "najwyzej_ocenione_wyklady": [
+        "ScamBook - Piotr Zarzycki i Paweł Srokosz (ścieżka Main) - oszustwa w reklamach Meta",
+        "Czy prokuratorzy nadal używają maszyn do pisania? - Agnieszka Gryszczyńska (ścieżka Cybercrime)",
+        "Vishing, Likejacking, Quishing - Adam Paciuszkiewicz (ścieżka Mix)",
+        "Niekończąca opowieść: kto pilnuje strażników? - Marek Szustak (ścieżka Tech)"
+      ]
+    },
+    "sciezki": [
+      "Main",
+      "Tech",
+      "Cybercrime",
+      "Mix",
+      "Inne (2 dodatkowe ścieżki)"
+    ],
+    "korzyści": [
+      "Spotkanie z czołowymi ekspertami cyberbezpieczeństwa",
+      "Nawiązanie cennych kontaktów z przedstawicielami firm",
+      "Rozwój kariery w branży security",
+      "Dostęp do najnowszych case studies i analiz",
+      "Praktyczne umiejętności z zakresu IT security",
+      "Wyjątkowa atmosfera konferencji OMH",
+      "Możliwość dołączenia do społeczności cybersecurity"
+    ],
+    "dodatkowe_elementy": [
+      "Nagrywanie prezentacji i udostępnianie uczestnikom",
+      "Publikacja wykładów na kanale YouTube",
+      "Call For Papers - możliwość zgłoszenia własnej prezentacji",
+      "Networking z przedstawicielami firm i instytucji"
+    ],
+    "bilety": {
+      "dostepne": true,
+      "link": "https://omhconf.pl/",
+      "opcje_grupowe": "dostępne",
+      "platny": true
+    },
+    "kontakt": {
+      "email_partnerstwa": "partners@proidea.pl",
+      "telefon_partnerstwa": "+48 506 804 442",
+      "email_koordynacja": "kaja.potoczna@proidea.org.pl",
+      "telefon_koordynacja": "+48 506 804 551",
+      "email_komunikacja": "aleksandra.michalska@proidea.org.pl",
+      "telefon_komunikacja": "+48 797 004 933",
+      "email_ogolny": "hello@omhconf.pl",
+      "email_bilety": "paulina.szarzynska@proidea.pl",
+      "telefon_bilety": "+48 506 689 579"
+    },
+    "social_media": {
+      "facebook": "ohmyhackconf",
+      "instagram": "omh.conf",
+      "linkedin": "omhconf",
+      "twitter": "@omhconf"
+    },
+    "poprzednie_edycje": [
+      {
+        "rok": "2024",
+        "edycja": 6,
+        "data": "2024-12-03"
+      },
+      {
+        "rok": "2023",
+        "edycja": 5,
+        "data": "2023-12-05"
+      },
+      {
+        "rok": "2021",
+        "nazwa": "OMH International",
+        "data": "2021-05-11 - 2021-05-12",
+        "forma": "online",
+        "jezyk": "angielski"
+      }
+    ],
+    "historia": "Konferencja Oh My Hack to wydarzenie, które od kilku lat zrzesza specjalistów cybersecurity. Poprzednia wersja wydarzenia nazywała się 'What The Hack'. W 2021 roku odbyła się międzynarodowa wersja online 'OMH International' w języku angielskim.",
+    "typy_partnerow": [
+      "Liderzy IT",
+      "Banki i instytucje finansowe",
+      "Społeczności cybersecurity",
+      "Media technologiczne"
+    ],
+    "dodatkowe_info": "Oh My Hack to konferencja (NIE hackathon) dla całej branży cyberbezpieczeństwa. Wydarzenie łączy ekspertów, pasjonatów i przedstawicieli firm z różnych sektorów (IT, security, finanse, administracja, przemysł). Program obejmuje wykłady, case studies i możliwości networkingu. Konferencja jest znana z wysokiej wartości merytorycznej i wyjątkowej atmosfery."
   }
 ]
