@@ -816,5 +816,45 @@
         "opis": "Zapowiedź Kościuszkon IV 2026 z datami, lokalizacją i opisem programu"
       }
     ]
+  },
+  {
+    "id": "into-design-systems-online-hackathon-2026",
+    "nazwa": "Into Design Systems Online Hackathon 2026",
+    "opis": "48-godzinny wirtualny hackathon Into Design Systems skupiony na projektowaniu i budowie narzędzi dla społeczności systemów projektowych. W dniach 6-8 lutego 2026 uczestnicy z całego świata łączą się online, aby prototypować rozwiązania, korzystać z mentoringu ekspertów i zaprezentować projekty podczas finału.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-02-06",
+    "data_odbycia_do": "2026-02-08",
+    "miejsce": "Online",
+    "organizator": "Into Design Systems",
+    "link": "https://www.intodesignsystems.com/hackathon",
+    "kategoria": "Design",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://www.intodesignsystems.com/hackathon",
+        "notes": "Strona wydarzenia podaje daty 6-8 lutego 2026, wirtualną formułę hackathonu i program trzech dni online."
+      }
+    ]
+  },
+  {
+    "id": "international-law-innovations-hackathon-2026",
+    "nazwa": "International Hackathon on Corporate and International Law Innovations 2026",
+    "opis": "Trzydniowy globalny hackathon online Mastering Up poświęcony innowacjom w prawie korporacyjnym i międzynarodowym. Od 13 do 15 czerwca 2026 zespoły prawniczo-technologiczne pracują zdalnie nad rozwiązaniami z zakresu AI do analiz dokumentów, blockchainu dla transparentności oraz zgodności transgranicznej.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-06-13",
+    "data_odbycia_do": "2026-06-15",
+    "miejsce": "Online",
+    "organizator": "Mastering Up",
+    "link": "https://masteringup.com/event/international-hackathon-on-corporate-and-international-law-innovations/",
+    "kategoria": "Biznes",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://masteringup.com/event/international-hackathon-on-corporate-and-international-law-innovations/",
+        "notes": "Opis wydarzenia Mastering Up potwierdza daty 13-15 czerwca 2026, formułę online oraz tematykę ścieżek."
+      }
+    ]
   }
 ]
