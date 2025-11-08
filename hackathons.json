@@ -716,5 +716,46 @@
         "notes": "Szczegóły Hack4Change 2026: termin 26-28.06.2026, lokalizacja Gdańsk, format stacjonarnego hackathonu"
       }
     ]
+  },
+  {
+    "id": "techquest-2026",
+    "nazwa": "TechQuest 2026",
+    "opis": "Szkolny hackathon TechQuest w Zespole Szkół Technicznych im. Tadeusza Kościuszki w Leżajsku. Wydarzenie ma charakter stacjonarny, z odliczaniem do startu 20 marca 2026, obejmuje lokalne mentorstwo, nagrody i rekrutację drużyn uczniowskich.",
+    "data_odbycia": "2026-03-20",
+    "data_odbycia_do": "2026-03-20",
+    "miejsce": "Zespół Szkół Technicznych im. Tadeusza Kościuszki, ul. Mickiewicza 67, 37-300 Leżajsk",
+    "organizator": "Zespół Szkół Technicznych im. Tadeusza Kościuszki w Leżajsku",
+    "link": "https://www.techquest.zst.lezajsk.pl/",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://www.techquest.zst.lezajsk.pl/static/js/main.4c7d8ef2.js",
+        "notes": "Skrypt strony zawiera odliczanie do 20 marca 2026 oraz regulamin z informacją o organizatorze i lokalizacji w ZST Leżajsk."
+      },
+      {
+        "url": "https://www.techquest.zst.lezajsk.pl/",
+        "notes": "Strona główna promuje hackathon TechQuest 2026 i zachęca do rejestracji uczestników."
+      }
+    ]
+  },
+  {
+    "id": "phd-hackathon-bauhaus4-eu-2026",
+    "nazwa": "PhD Hackathon BAUHAUS4EU 2026",
+    "opis": "Czterodniowy PhD Hackathon w ramach projektu BAUHAUS4EU ma połączyć 20 doktorantów z uczelni partnerskich UE Katowice. W 2026 roku zespoły wezmą udział w programie integracyjnym, a następnie w trzydniowym maratonie projektowym prowadzonym przez mentorów, kończąc prezentacjami i oceną ekspertów.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-06-01",
+    "data_odbycia_do": "2026-06-04",
+    "miejsce": "Uniwersytet Ekonomiczny w Katowicach, Katowice",
+    "organizator": "Uniwersytet Ekonomiczny w Katowicach (projekt BAUHAUS4EU)",
+    "link": "https://www.ue.katowice.pl/en/projects/uekat-in-bauhaus4ue-nawa-project/planned-activities/organizing-phd-hackathon-an-innovative-learning-method-for-doctoral-candidates.html",
+    "kategoria": "Edukacja",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://www.ue.katowice.pl/en/projects/uekat-in-bauhaus4ue-nawa-project/planned-activities/organizing-phd-hackathon-an-innovative-learning-method-for-doctoral-candidates.html",
+        "notes": "Opis zadania realizowanego do 30 czerwca 2026 z programem społeczno-projektowym i finałem dla zespołów doktorantów BAUHAUS4EU."
+      }
+    ]
   }
 ]
