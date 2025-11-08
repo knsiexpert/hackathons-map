@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "nasa-space-apps-szczecin-2024",
     "nazwa": "NASA Space Apps Challenge Szczecin 2024",
     "opis": "24-godzinny hackathon w Morskim Centrum Nauki w Szczecinie, lokalna edycja globalnego NASA Space Apps Challenge. 42 uczestników w 10 zespołach pracowało nad 20 wyzwaniami NASA z tematem przewodnim 'The Sun Touches Everything' (Heliophysics Big Year). Wydarzenie było częścią Szczecińskiego Festiwalu Kosmicznego. Organizator: Stowarzyszenie Iskry Nauki.",
     "data_rejestracji_od": "2024-09-01",
@@ -18,7 +18,7 @@
     "wyroznienia": "Projekt Shark Trace - monitoring populacji rekinów przy użyciu danych satelitarnych NASA"
   },
   {
-    "id": "2",
+    "id": "bbt-baltic-hackathon-2025",
     "nazwa": "BBT Baltic Hackathon 2025",
     "opis": "Trzydniowy hackathon organizowany przez Uniwersytet Gdański w ramach projektu Blue Bio Techpreneurs, ukierunkowany na błękitną biogospodarkę i biotechnologie morskie. Pięć multidyscyplinarnych zespołów pracowało nad rzeczywistymi wyzwaniami związanymi z Morzem Bałtyckim, wspierane przez ekspertów i mentorów. Tematyka obejmowała: energooszczędne systemy RAS, zrównoważone alternatywy dla miki w kosmetykach, farmy wiatrowe offshore i regeneracyjne rolnictwo oceaniczne, oraz zdrowie ryb w intensywnych systemach RAS.",
     "data_rejestracji_od": null,
@@ -59,7 +59,7 @@
     "dodatkowe_info": "Wydarzenie łączyło studentów i ekspertów z całej Europy. Uczestnicy mieli możliwość prototypowania rozwiązań i przygotowania prezentacji pod okiem doświadczonych mentorów. Kontakt: hackathons@bluebiotechpreneurs.eu"
   },
   {
-    "id": "3",
+    "id": "nasa-space-apps-szczecin-2025",
     "nazwa": "NASA Space Apps Challenge Szczecin 2025",
     "opis": "Kolejna edycja lokalnego hackathonu NASA w Szczecinie. 24-godzinny maraton pracy projektowej będący częścią II Szczecińskiego Festiwalu Kosmicznego. Ponad 40 uczestników z całej Polski utworzyło 10 drużyn, które pracowały nad kilkudziesięcioma wyzwaniami NASA związanymi z obserwacją Ziemi, eksploracją kosmosu, zmianami klimatycznymi i ochroną środowiska. Uczestnicy bazowali na prawdziwych danych NASA pod okiem mentorów.",
     "data_rejestracji_od": "2025-07-17",
@@ -80,7 +80,7 @@
     "dodatkowe_info": "Szczecin był jednym z trzech polskich miast goszczących Space Apps Challenge, jedynym w regionie Pomorza i ściany zachodniej. Zwycięzcy lokalni zostali nominowani do globalnego finału NASA. Kontakt: hackathon@iskrynauki.pl"
   },
   {
-    "id": "4",
+    "id": "hackmyslask-tozsamosc-edukacji-2024",
     "nazwa": "HackMyŚląsk – Tożsamość w edukacji",
     "opis": "Pierwszy hackathon w ramach cyklu 'Od idei do zmiany. Prototypujemy dla Śląska', poświęcony nowoczesnej i angażującej edukacji regionalnej. Uczestnicy pracowali nad rozwiązaniami wprowadzającymi tożsamość śląską (język, tradycje, historia) do szkół poprzez gry, aplikacje, kampanie społeczne i mikroprojekty tworzone przez młodzież. Wydarzenie łączyło tradycję z nowoczesnością, budując poczucie przynależności do regionu.",
     "data_rejestracji_od": "2025-08-29",
@@ -127,7 +127,7 @@
     "dodatkowe_info": "Wydarzenie obejmowało pracę zespołową, konsultacje z mentorami, tworzenie prototypów, sesję pitchów i wybór zwycięzców przez jury. Pierwszy hackathon z planowanego cyklu dla województwa śląskiego."
   },
   {
-    "id": "5",
+    "id": "hackathon-mlodych-innowatorow-2025",
     "nazwa": "Hackathon Młodych Innowatorów",
     "opis": "Dwudniowy hackathon skupiony na technologiach odpowiedzialnych społecznie dla lepszego jutra. Uczestnicy pracują nad rzeczywistymi wyzwaniami partnerów w 4 kategoriach tematycznych: Ed-Tech (innowacyjna edukacja), Med-Tech (wsparcie zdrowia), Green-Tech (transformacja energetyczna i ekologia) oraz wyzwania PARP i uczelni. Zespoły tworzą rozwiązania od koncepcji przez biznesplan po pitch przed jury. Realizowany w ramach projektu PARP inno_LAB.",
     "data_rejestracji_od": "2025-08-29",
@@ -232,7 +232,7 @@
     "dodatkowe_info": "Hackathon realizowany w ramach Funduszy Europejskich i projektu PARP inno_LAB. Uczestnicy mogą zgłaszać się indywidualnie lub zespołowo. Organizator nie pokrywa kosztów dojazdu i noclegu. Wydarzenie łączy praktyczną naukę budowania rozwiązań społecznych i biznesowych z dostępem do ekspertów i mentorów z różnych dziedzin."
   },
   {
-    "id": "6",
+    "id": "fpga-hackathon-2025",
     "nazwa": "FPGA Hackathon 2025",
     "opis": "Dwudniowe wydarzenie dla pasjonatów elektroniki i układów FPGA. 24 godziny intensywnego kodowania, wyzwań i współpracy z ekspertami. Temat przewodni: 'Far Side of the Moon – The Unseen Frontier' / 'Lunar Station Crew' - misja dekodowania anomalnych sygnałów z ciemnej strony Księżyca. Uczestnicy pracowali na płytkach FPGA Kria KV260 od AMD.",
     "data_rejestracji_od": "2025-03-03",
@@ -271,7 +271,7 @@
     "dodatkowe_info": "Jedno z najbardziej unikalnych hackathonoów w Europie Środkowej. Wydarzenie łączyło narrację kosmiczną z zaawansowaną inżynierią - zadaniem było zaprojektowanie odpornych systemów do komunikacji pozaziemskiej i analizy danych. Pracownicy Nokia i twórcy zadań nie mogli uczestniczyć."
   },
   {
-    "id": "7",
+    "id": "eudis-defence-hackathon-2025",
     "nazwa": "EUDIS Defence Hackathon 2025 - Technologie dla Obrony i Bezpieczeństwa",
     "opis": "Trzydniowy ogólnoeuropejski hackathon poświęcony wykorzystaniu technologii kosmicznych w działaniach na rzecz bezpieczeństwa. Uczestnicy (inżynierowie, programiści, naukowcy, pasjonaci kosmosu) pracowali nad pomysłami wspierającymi odporność Europy - zarówno na Ziemi, jak i na orbicie. Hackathon jest częścią Europejskiego Programu Innowacji Obronnych (EUDIS) - inicjatywy Komisji Europejskiej finansowanej przez European Defence Fund.",
     "data_rejestracji_od": null,
@@ -320,7 +320,7 @@
     "dodatkowe_info": "Uczestnicy otrzymują profesjonalne uznanie za swój wkład, możliwość networkingu z europejskimi innowatorami obronności, wsparcie mentorów będących ekspertami w branży oraz szansę na rozwój kariery z europejskim wyróżnieniem."
   },
   {
-    "id": "8",
+    "id": "pixel-riot-2025",
     "nazwa": "Pixel Riot - Europe's Largest AI Creative Hackathon",
     "opis": "Największy hackathon AI creative w Europie - 10-dniowy konkurs łączący technologię ze sztuką. Uczestnicy tworzą projekty AI samodzielnie lub w zespołach - filmy, interaktywne historie, narzędzia, gry. Wydarzenie łączy artystów i deweloperów, eksplorując jak AI może transformować storytelling, design i ekspresję artystyczną.",
     "data_rejestracji_od": null,
@@ -363,7 +363,7 @@
     "dodatkowe_info": "Globalne wydarzenie creative-tech łączące kreatywność z kodem. Uczestnicy mają równe szanse - zarówno nowicjusze jak i profesjonaliści uczą się w tym nowym obszarze. Wydarzenie nazwane 'The Creative Tech Hackathon That Broke the Internet'."
   },
   {
-    "id": "9",
+    "id": "hackyeah-2026",
     "nazwa": "HackYeah 2026",
     "opis": "Największy stacjonarny hackathon w Europie - 11. edycja. 24-godzinne wyzwanie programistyczne dla zespołów od 1 do 6 osób. Uczestnicy mierzą się z realnymi wyzwaniami w różnych kategoriach technologicznych, mając dostęp do konferencji z ekspertami branży IT.",
     "data_rejestracji_od": null,
@@ -409,7 +409,7 @@
     "dodatkowe_info": "Szczegóły zadań i regulaminy są ujawniane dopiero na starcie wydarzenia, dzięki czemu każdy zespół ma równe szanse. Projekty można składać w języku polskim lub angielskim."
   },
   {
-    "id": "10",
+    "id": "hackjam-gdansk-2026",
     "nazwa": "HackJam - Hackerspace GameJam / Global Game Jam Gdańsk 2026",
     "opis": "Ogólnopolski maraton programistyczny organizowany w ramach Global Game Jam - cyklicznej imprezy zrzeszającej co roku twórców gier na całym świecie. Tworzenie gier w 48 godzin (weekend) oparte o jedną wspólną tematykę. Wydarzenie jest tworzone przez społeczność twórców gier, zafascynowanych ideą wspólnej pracy i rywalizacji. Podczas maratonu można dołączyć do czyjegoś zespołu lub stworzyć własny - jest do tego dedykowana przestrzeń.",
     "data_rejestracji_od": null,
@@ -438,7 +438,7 @@
     "uwagi": "Promocje nie obowiązują w przypadku dofinansowania kursu ze środków publicznych"
   },
   {
-    "id": "11",
+    "id": "hack-summit-2026",
     "nazwa": "The Hack Summit 2026",
     "opis": "Największa konferencja cyberbezpieczeństwa w Polsce. Dwudniowe wydarzenie w formule hybrydowej (online + onsite) dla każdego związanego z cyberbezpieczeństwem - od zagadnień technicznych, poprzez strategię, aż po ryzyko i compliance. Największe w kraju spotkanie polskiego środowiska CyberSec.",
     "data_rejestracji_od": null,
@@ -475,7 +475,7 @@
     "dodatkowe_info": "Wydarzenie odbywa się co roku. Format: dzień 1 online, dzień 2 stacjonarnie na PGE Narodowym. Konkretne daty 2026 nie zostały jeszcze oficjalnie ogłoszone - strona podaje tylko 'październik 2026'."
   },
   {
-    "id": "12",
+    "id": "nasa-space-apps-polska-2026",
     "nazwa": "NASA Space Apps Challenge 2026 - Polska",
     "opis": "Globalna edycja NASA Space Apps Challenge. Lokalne wydarzenia mogą być planowane w polskich miastach. Szczegóły edycji 2026 nie zostały jeszcze oficjalnie ogłoszone przez NASA.",
     "data_rejestracji_od": null,
@@ -490,7 +490,7 @@
     "uwaga": "Informacje o edycji 2026 nie zostały jeszcze opublikowane. Strona NASA Space Apps Challenge nie zawiera jeszcze szczegółów dotyczących dat i rejestracji na rok 2026. Tradycyjnie wydarzenie odbywa się na początku października."
   },
   {
-    "id": "13",
+    "id": "ethwarsaw-2025",
     "nazwa": "ETHWarsaw 2025",
     "opis": "Czwarta edycja największego wydarzenia Web3 w Polsce. Konferencja i hackathon dla developerów, badaczy i founderów blockchain. 4 dni budowania, pogłębionych dyskusji i współpracy hands-on. Główne wydarzenie Warsaw Blockchain Week.",
     "data_rejestracji_od": null,
@@ -533,7 +533,7 @@
     "dodatkowe_info": "Wydarzenie jest częścią Warsaw Blockchain Week. Community-led, grassroots konferencja prowadzona przez aktywnych członków społeczności Web3. Brak informacji o edycji 2026 na oficjalnej stronie."
   },
   {
-    "id": "14",
+    "id": "cassini-hackathon-10th-2025",
     "nazwa": "CASSINI Hackathon 10th Edition - EU Space for Consumer Experience",
     "opis": "Europejski hackathon wykorzystujący dane satelitarne z programu Copernicus, Galileo i EGNOS do tworzenia innowacyjnych doświadczeń użytkowników. Tematy: immersive gameplay z technologiami kosmicznymi, podróże i sport z wykorzystaniem danych satelitarnych. Hackathon odbył się jednocześnie w 10 lokalizacjach europejskich.",
     "data_rejestracji_od": null,
@@ -563,7 +563,7 @@
     "dodatkowe_info": "Wydarzenie odbywa się cyklicznie. Jedna lokalna zwycięska drużyna z każdej z 10 lokalizacji przechodzi do finału europejskiego. Nie wymaga wcześniejszego doświadczenia z technologiami kosmicznymi. Informacje o edycji Spring 2026 nie zostały jeszcze ogłoszone."
   },
   {
-    "id": "19",
+    "id": "baltic-sea-region-2025",
     "nazwa": "Baltic Sea Region Hackathon 2025",
     "opis": "Hackathon regionu Morza Bałtyckiego z tematem 'One Region – Borderless Innovation'. Wydarzenie wspierające innowacje i współpracę międzynarodową wśród młodych ludzi (18-30 lat). Uczestnicy tworzą cyfrowe rozwiązania dla wyzwań regionalnych: dezinformacja, demokracja, zrównoważony rozwój.",
     "data_rejestracji_od": null,
@@ -577,7 +577,7 @@
     "organizator": "Land Schleswig-Holstein, CBSS, TH Lübeck"
   },
   {
-    "id": "21",
+    "id": "polyjam-warsaw-2025",
     "nazwa": "PolyJam 2025 - Global Game Jam Warsaw",
     "opis": "Game jam - maraton tworzenia gier wideo w 48 godzin na zadany temat. Zespoły twórców mają za zadanie stworzyć grę, poznać kreatywnych pasjonatów gamedevu. Pizza, prezentacje i ogłoszenie wyników z nagrodami.",
     "data_rejestracji_od": null,
@@ -591,7 +591,7 @@
     "organizator": "KNTG Polygon"
   },
   {
-    "id": "23",
+    "id": "eage-ai-hackathon-2026",
     "nazwa": "EAGE Annual 2026 AI Hackathon",
     "opis": "2-dniowy hackathon skupiony na zastosowaniach AI w przetwarzaniu danych sejsmicznych. Uczestnicy projektują aplikacje AI do autonomicznego przetwarzania rzeczywistych danych sejsmicznych. Temat: efektywność energetyczna algorytmów i optymalizacja workflow. Dostęp do serwerów GPU i mentorów z branży. Zwycięzcy prezentują projekty podczas sesji specjalnej konferencji.",
     "data_rejestracji_od": null,
@@ -605,7 +605,7 @@
     "organizator": "EAGE, Dell Technologies, NVIDIA"
   },
   {
-    "id": "25",
+    "id": "ensembleai-hackathon-2025",
     "nazwa": "EnsembleAI Hackathon 2025",
     "opis": "Druga edycja hackathonu organizowanego przez studenckie koła naukowe z całej Polski, skupiona na Machine Learning i AI. 24-godzinne wydarzenie z zadaniami dotyczącymi zabezpieczeń modeli ML oraz autonomicznych botów do gier. Wzięło udział 200 uczestników.",
     "data_rejestracji_od": null,
@@ -619,7 +619,7 @@
     "organizator": "Koło Naukowe BIT (AGH), KN Sztucznej Inteligencji Golem (PW), KN Data Science (PW), KN Uczenia Maszynowego (UW), Stowarzyszenie MLinPL"
   },
   {
-    "id": "26",
+    "id": "quantum-boost-2025",
     "nazwa": "Quantum Boost Hackathon 2025",
     "opis": "Pierwszy hackathon technologii kwantowych w krajach bałtyckich. Międzynarodowe wydarzenie z uczestnikami z 9 krajów i 3 kontynentów. Zespoły rozwiązywały wyzwania kwantowe: nawigacja niezależna od GPS, komunikacja quantum-secure, algorytmy optymalizacyjne dla logistyki, innowacje w ochronie zdrowia. Nagrody pieniężne i możliwość inwestycji do 500k EUR.",
     "data_rejestracji_od": null,
@@ -634,7 +634,7 @@
     "tryb": "hybrid"
   },
   {
-    "id": "27",
+    "id": "hackherhealth-2024",
     "nazwa": "HackHERHealth 2024",
     "opis": "Femtech Innovation Hackathon skupiony na zamykaniu luki w opiece zdrowotnej ze względu na płeć. 5 wyzwań: otyłość u kobiet, neurodivergentne dziewczęta, ciąża i wsparcie, przemoc domowa, innowacje w zdrowiu kobiet. Ponad 100 uczestników z 25 krajów, około 30 projektów. Wykorzystanie AI i narzędzi Microsoft. Nagrody pieniężne 10 000 USD, mentoring, bilety na konferencję GAIA 2025.",
     "data_rejestracji_od": "2024-03-08",
@@ -649,7 +649,7 @@
     "tryb": "hybrid"
   },
   {
-    "id": "28",
+    "id": "nasa-app-dev-challenge-2026",
     "nazwa": "NASA App Development Challenge 2026",
     "opis": "Wyzwanie programistyczne NASA dla szkół średnich i community college - tworzenie aplikacji wspierających misje kosmiczne i program Artemis. Studenci odpowiadają na techniczne problemy NASA związane z misjami głębokiego kosmosu, lądowaniem na Księżycu i przyszłymi misjami na Marsa.",
     "data_rejestracji_od": null,
@@ -664,7 +664,7 @@
     "dla_kogo": "uczniowie szkół średnich i community college (USA)"
   },
   {
-    "id": "29",
+    "id": "sans-ai-cybersecurity-2025",
     "nazwa": "SANS AI Cybersecurity Hackathon 2025",
     "opis": "Globalny wirtualny hackathon AI w cyberbezpieczeństwie - tworzenie open-source narzędzi AI do ochrony systemów. Obszary: wykrywanie zagrożeń, automatyczna reakcja na incydenty, skanowanie podatności, cyberbezpieczeństwo predykcyjne, automatyzacja workflow, edukacja bezpieczeństwa. Miesięczne wydarzenie dla profesjonalistów, hakerów etycznych, deweloperów i studentów. Pula nagród 10 000 USD.",
     "data_rejestracji_od": null,
@@ -676,5 +676,45 @@
     "status": "zakończony",
     "tryb": "online",
     "organizator": "SANS Institute"
+  },
+  {
+    "id": "actinspace-poland-2026",
+    "nazwa": "ActInSpace Poland 2026",
+    "opis": "Polska edycja globalnego hackathonu European Space Agency i CNES. Uczestnicy mają 24 godziny na opracowanie innowacyjnych rozwiązań kosmicznych, a zwycięzcy awansują do finału międzynarodowego w Bordeaux z nagrodą lotu Zero-G.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-01-30",
+    "data_odbycia_do": "2026-01-31",
+    "miejsce": "Polska (lokalizacja zostanie ogłoszona)",
+    "link": "https://spaceship.edu.pl/zorganizujemy-kosmiczny-hackathon-actinspace-2026/",
+    "kategoria": "Kosmonautyka",
+    "status": "planowany",
+    "organizator": "SpaceShip",
+    "sources": [
+      {
+        "url": "https://spaceship.edu.pl/zorganizujemy-kosmiczny-hackathon-actinspace-2026/",
+        "notes": "Zapowiedź polskiej edycji ActInSpace 2026 z terminem 30-31.01.2026 i awansem zwycięzców do finału w Bordeaux"
+      }
+    ]
+  },
+  {
+    "id": "hack4change-2026",
+    "nazwa": "Hack4Change 2026",
+    "opis": "Technologiczno-ekologiczny hackathon Fundacji CODE:ME. 48-godzinne wydarzenie stacjonarne w Gdańsku łączące zespoły programistów, projektantów i ekspertów środowiskowych z warsztatami przygotowującymi do wyzwań klimatycznych.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-06-26",
+    "data_odbycia_do": "2026-06-28",
+    "miejsce": "Gdańsk",
+    "link": "https://codeme.pl/eventy/hack4change/",
+    "kategoria": "ClimateTech",
+    "status": "planowany",
+    "organizator": "Fundacja CODE:ME",
+    "sources": [
+      {
+        "url": "https://codeme.pl/eventy/hack4change/",
+        "notes": "Szczegóły Hack4Change 2026: termin 26-28.06.2026, lokalizacja Gdańsk, format stacjonarnego hackathonu"
+      }
+    ]
   }
 ]
