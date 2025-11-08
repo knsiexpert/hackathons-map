@@ -634,21 +634,6 @@
     "tryb": "hybrid"
   },
   {
-    "id": "nasa-app-dev-challenge-2026",
-    "nazwa": "NASA App Development Challenge 2026",
-    "opis": "Wyzwanie programistyczne NASA dla szkół średnich i community college - tworzenie aplikacji wspierających misje kosmiczne i program Artemis. Studenci odpowiadają na techniczne problemy NASA związane z misjami głębokiego kosmosu, lądowaniem na Księżycu i przyszłymi misjami na Marsa.",
-    "data_rejestracji_od": null,
-    "data_rejestracji_do": null,
-    "data_odbycia": "2026-04-13",
-    "data_odbycia_do": "2026-04-16",
-    "link": "https://www.nasa.gov/learning-resources/app-development-challenge/",
-    "kategoria": "Kosmonautyka",
-    "status": "planowany",
-    "miejsce": "Johnson Space Center",
-    "organizator": "NASA",
-    "dla_kogo": "uczniowie szkół średnich i community college (USA)"
-  },
-  {
     "id": "sans-ai-cybersecurity-2025",
     "nazwa": "SANS AI Cybersecurity Hackathon 2025",
     "opis": "Globalny wirtualny hackathon AI w cyberbezpieczeństwie - tworzenie open-source narzędzi AI do ochrony systemów. Obszary: wykrywanie zagrożeń, automatyczna reakcja na incydenty, skanowanie podatności, cyberbezpieczeństwo predykcyjne, automatyzacja workflow, edukacja bezpieczeństwa. Miesięczne wydarzenie dla profesjonalistów, hakerów etycznych, deweloperów i studentów. Pula nagród 10 000 USD.",
