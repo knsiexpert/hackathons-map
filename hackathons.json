@@ -1221,5 +1221,139 @@
       "Media technologiczne"
     ],
     "dodatkowe_info": "Oh My Hack to konferencja (NIE hackathon) dla całej branży cyberbezpieczeństwa. Wydarzenie łączy ekspertów, pasjonatów i przedstawicieli firm z różnych sektorów (IT, security, finanse, administracja, przemysł). Program obejmuje wykłady, case studies i możliwości networkingu. Konferencja jest znana z wysokiej wartości merytorycznej i wyjątkowej atmosfery."
+  },
+  {
+    "id": "innovart-2026-online",
+    "nazwa": "InnovArt 2026: Art and Technology Hack Day",
+    "opis": "Elastyczny hackathon art-tech Binnovative, w którym uczestnicy pracują zdalnie do 3 stycznia 2026, a prezentacje online odbywają się 4 stycznia.",
+    "data_odbycia": "2026-01-03",
+    "data_odbycia_do": "2026-01-04",
+    "miejsce": "Online",
+    "organizator": "Binnovative",
+    "link": "https://innovart2026.devpost.com/",
+    "kategoria": "AI/Creative Tech",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://innovart2026.devpost.com/",
+        "description": "Strona hackathonu potwierdza termin zgłoszeń do 3 stycznia 2026 oraz prezentacje online 4 stycznia 2026."
+      }
+    ]
+  },
+  {
+    "id": "hack-for-humanity-2026-online",
+    "nazwa": "Hack for Humanity | 2026",
+    "opis": "Miesięczny hackathon środowiskowy, w którym uczestnicy indywidualnie lub w zespołach tworzą rozwiązania chroniące środowisko w formule w pełni online.",
+    "data_odbycia": "2026-02-01",
+    "data_odbycia_do": "2026-02-28",
+    "miejsce": "Online",
+    "organizator": "Kuba Apps",
+    "link": "https://hack-for-humanity-26.devpost.com/",
+    "kategoria": "ClimateTech",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://hack-for-humanity-26.devpost.com/",
+        "description": "Strona Devpost potwierdza harmonogram 1–28 lutego 2026 (Feb 1 – 28, 2026) oraz format online wydarzenia (OnlineEventAttendanceMode)."
+      }
+    ]
+  },
+  {
+    "id": "mega-hackathon-2026-online",
+    "nazwa": "MEGA Hackathon 2026",
+    "opis": "Globalny hackathon MegaHackathonLeague poświęcony celom zrównoważonego rozwoju, odbywający się online 28 lutego – 1 marca 2026 z wyzwaniami od web dev po data science.",
+    "data_odbycia": "2026-02-28",
+    "data_odbycia_do": "2026-03-01",
+    "miejsce": "Online",
+    "organizator": "MegaHackathonLeague",
+    "link": "https://mega-hackathon-2026-students.devpost.com/",
+    "kategoria": "Innowacje/Zrównoważony rozwój",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://mega-hackathon-2026-students.devpost.com/",
+        "description": "Opis wydarzenia wskazuje daty 28 lutego – 1 marca 2026 (Feb 28 – Mar 1, 2026) oraz że hackathon odbędzie się online."
+      }
+    ]
+  },
+  {
+    "id": "hackfiesta-miami-online-2026",
+    "nazwa": "HackFiesta Miami 2026",
+    "opis": "Tygodniowy, w pełni zdalny hackathon nastawiony na globalny wpływ, innowacje i zrównoważony rozwój. Wydarzenie zaprasza uczniów szkół średnich (16+) i studentów z całego świata do tworzenia rozwiązań dla społeczności na różnych kontynentach.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": "2026-03-08",
+    "data_odbycia": "2026-03-09",
+    "data_odbycia_do": "2026-03-15",
+    "miejsce": "Online",
+    "link": "https://codecrunchglobal.vercel.app/HACK-8-HackFiestaMiami26.HTML",
+    "kategoria": "General",
+    "status": "planowany",
+    "organizator": "Code Crunch Club",
+    "sources": [
+      {
+        "url": "https://codecrunchglobal.vercel.app/HACK-8-HackFiestaMiami26.HTML",
+        "notes": "Oficjalna strona HackFiesta Miami 2026: terminy 9-15.03.2026, pełna formuła 100% virtual oraz udział studentów z całego świata."
+      }
+    ]
+  },
+  {
+    "id": "world-engineering-day-hackathon-2026-online",
+    "nazwa": "World Engineering Day Hackathon 2026",
+    "opis": "Międzynarodowy wirtualny hackathon WFEO i UNESCO związany ze Światowym Dniem Inżynierii 2026. Zespoły 2–6 osób z całego świata pracują zdalnie nad rozwiązaniami dla celu SDG 9: przemysł, innowacyjność i infrastruktura.",
+    "data_rejestracji_od": null,
+    "data_rejestracji_do": null,
+    "data_odbycia": "2026-01-12",
+    "data_odbycia_do": "2026-01-26",
+    "miejsce": "Online",
+    "link": "https://worldengineeringday.net/hackathon-2026/",
+    "kategoria": "Engineering",
+    "status": "planowany",
+    "organizator": "World Federation of Engineering Organizations",
+    "sources": [
+      {
+        "url": "https://worldengineeringday.net/hackathon-2026/",
+        "notes": "Sekcja \"Event Details\" określa termin 12-26.01.2026, globalny charakter i format Virtual, global event."
+      }
+    ]
+  },
+  {
+    "id": "united-hacks-v6-online-2026",
+    "nazwa": "United Hacks V6",
+    "opis": "Międzynarodowy hackathon online prowadzony przez społeczność Hack United z transmisjami w Discordzie i warsztatami dla młodych twórców. Uczestnicy (13+) pracują w weekend 16-18 stycznia 2026 nad projektami dowolnego tematu, zgłaszając je poprzez Devpost.",
+    "data_odbycia": "2026-01-16",
+    "data_odbycia_do": "2026-01-18",
+    "miejsce": "Online",
+    "organizator": "Hack United",
+    "link": "https://unitedhacksv6.devpost.com/",
+    "kategoria": "General",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://unitedhacksv6.devpost.com/",
+        "notes": "Opis na stronie wskazuje harmonogram 16-18.01.2026 i komunikację przez Discord."
+      },
+      {
+        "url": "https://unitedhacksv6.devpost.com/rules",
+        "notes": "Regulamin dopuszcza wszystkich uczestników powyżej 13 roku życia i wymaga rejestracji online."
+      }
+    ]
+  },
+  {
+    "id": "future-impact-challenge-5-online-2026",
+    "nazwa": "Future Impact Challenge 5.0",
+    "opis": "Czteromiesięczny, globalny program online Fundacji Applied Computing Foundation dla nastolatków tworzących rozwiązania klimatyczne. Runda kwalifikacyjna trwa od 1 stycznia do 20 lutego 2026, a kolejne etapy obejmują zdalne warsztaty, mentoring i finałowe pitchy.",
+    "data_odbycia": "2026-01-01",
+    "data_odbycia_do": "2026-02-20",
+    "miejsce": "Online",
+    "organizator": "Applied Computing Foundation",
+    "link": "https://future-impact-challenge.devpost.com/",
+    "kategoria": "Climate",
+    "status": "planowany",
+    "sources": [
+      {
+        "url": "https://future-impact-challenge.devpost.com/",
+        "notes": "Opis programu potwierdza zdalny przebieg, globalną rekrutację nastolatków 13-19 lat i harmonogram od stycznia 2026."
+      }
+    ]
   }
 ]
